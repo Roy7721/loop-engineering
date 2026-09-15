@@ -1,0 +1,11 @@
+node_modules
+dist
+.vercel
+.testsprite
+testsprite-plans/*.json
+!testsprite-plans/.gitkeep
+.DS_Store
+
+.vercel
+
+.vercel
